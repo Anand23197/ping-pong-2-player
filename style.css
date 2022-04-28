@@ -1,0 +1,9 @@
+canvas{
+    border: 1px solid red;
+    background-color: aqua;
+}
+body{
+    display: flex;
+    justify-content: center;
+    background-color: #251D3A;
+}
